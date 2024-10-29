@@ -1,0 +1,1560 @@
+"Item ID","Item Identifier","Item Fat Content","Item Type"
+1,FDX32,Regular,"Fruits and Vegetables"
+2,NCB42,"Low Fat","Health and Hygiene"
+3,FDR28,Regular,"Frozen Foods"
+4,FDL50,Regular,Canned
+5,DRI25,"Low Fat","Soft Drinks"
+6,FDS52,"low fat","Frozen Foods"
+7,NCU05,"Low Fat","Health and Hygiene"
+8,NCD30,"Low Fat",Household
+9,FDW20,"Low Fat","Fruits and Vegetables"
+10,FDX25,"Low Fat",Canned
+11,FDX21,LF,"Snack Foods"
+12,NCU41,"Low Fat","Health and Hygiene"
+13,FDL20,"Low Fat","Fruits and Vegetables"
+14,NCR54,"Low Fat",Household
+15,FDH19,"Low Fat",Meat
+16,FDB57,Regular,"Fruits and Vegetables"
+17,FDO23,"Low Fat",Breads
+18,NCB07,"Low Fat",Household
+19,FDJ56,"Low Fat","Fruits and Vegetables"
+20,DRN47,"Low Fat","Hard Drinks"
+21,FDZ07,Regular,"Fruits and Vegetables"
+22,NCK31,"Low Fat",Others
+23,FDJ41,"Low Fat","Frozen Foods"
+24,DRI51,"Low Fat",Dairy
+25,FDC40,Regular,Dairy
+26,FDB53,"Low Fat","Frozen Foods"
+27,FDA16,"Low Fat","Frozen Foods"
+28,FDO19,Regular,"Fruits and Vegetables"
+29,FDO04,"Low Fat","Frozen Foods"
+30,FDL25,Regular,Breakfast
+31,NCJ30,"Low Fat",Household
+32,NCQ41,"Low Fat","Health and Hygiene"
+33,DRJ35,"Low Fat","Hard Drinks"
+34,NCE31,"Low Fat",Household
+35,FDY09,"Low Fat","Snack Foods"
+36,FDZ04,"low fat","Frozen Foods"
+37,FDY07,"Low Fat","Fruits and Vegetables"
+38,FDO45,Regular,"Snack Foods"
+39,FDB09,"Low Fat","Fruits and Vegetables"
+40,FDP51,Regular,Meat
+41,FDT50,Regular,Dairy
+42,FDQ08,Regular,"Fruits and Vegetables"
+43,DRL11,"Low Fat","Hard Drinks"
+44,FDT34,"Low Fat","Snack Foods"
+45,FDP01,Regular,Breakfast
+46,NCJ31,"Low Fat",Others
+47,NCL30,"Low Fat",Household
+48,FDF04,LF,"Frozen Foods"
+49,NCZ42,LF,Household
+50,FDG24,"Low Fat","Baking Goods"
+51,FDV49,"Low Fat",Canned
+52,FDX01,"Low Fat",Canned
+53,DRF27,"Low Fat",Dairy
+54,FDF16,"Low Fat","Frozen Foods"
+55,FDU04,"Low Fat","Frozen Foods"
+56,FDP04,"Low Fat","Frozen Foods"
+57,FDD05,"Low Fat","Frozen Foods"
+58,FDV07,"Low Fat","Fruits and Vegetables"
+59,FDT20,"Low Fat","Fruits and Vegetables"
+60,FDC44,"Low Fat","Fruits and Vegetables"
+61,DRM59,"Low Fat","Hard Drinks"
+62,DRG23,"Low Fat","Hard Drinks"
+63,NCJ29,"Low Fat","Health and Hygiene"
+64,NCM42,"Low Fat",Household
+65,NCY42,"Low Fat",Household
+66,NCX54,"Low Fat",Household
+67,NCI06,"Low Fat",Household
+68,NCQ02,"Low Fat",Household
+69,NCR38,"Low Fat",Household
+70,NCM30,"Low Fat",Household
+71,FDK43,"Low Fat",Meat
+72,FDK21,"Low Fat","Snack Foods"
+73,FDR45,"Low Fat","Snack Foods"
+74,FDV09,"Low Fat","Snack Foods"
+75,FDU12,Regular,"Baking Goods"
+76,FDZ47,Regular,"Baking Goods"
+77,FDO11,Regular,Breads
+78,FDU49,Regular,Canned
+79,FDA02,Regular,Dairy
+80,FDV26,Regular,Dairy
+81,FDA04,Regular,"Frozen Foods"
+82,FDO52,Regular,"Frozen Foods"
+83,FDA40,Regular,"Frozen Foods"
+84,FDS27,Regular,Meat
+85,FDU15,Regular,Meat
+86,FDV33,Regular,"Snack Foods"
+87,FDV34,Regular,"Snack Foods"
+88,FDX46,Regular,"Snack Foods"
+89,NCA53,"low fat","Health and Hygiene"
+90,FDT24,reg,"Baking Goods"
+91,FDX27,reg,Dairy
+92,NCQ38,LF,Others
+93,FDK02,"Low Fat",Canned
+94,FDI15,"Low Fat",Dairy
+95,FDE09,"Low Fat","Fruits and Vegetables"
+96,FDS55,"Low Fat","Fruits and Vegetables"
+97,FDZ56,"Low Fat","Fruits and Vegetables"
+98,NCA05,"Low Fat","Health and Hygiene"
+99,NCK29,"Low Fat","Health and Hygiene"
+100,NCU29,"Low Fat","Health and Hygiene"
+101,NCX41,"Low Fat","Health and Hygiene"
+102,NCG07,"Low Fat",Household
+103,NCI30,"Low Fat",Household
+104,NCT06,"Low Fat",Household
+105,FDN15,"Low Fat",Meat
+106,FDJ45,"Low Fat",Seafood
+107,FDL13,Regular,Breakfast
+108,FDL02,Regular,Canned
+109,FDF56,Regular,"Fruits and Vegetables"
+110,FDQ27,Regular,Meat
+111,FDG35,Regular,"Starchy Foods"
+112,FDD38,reg,Canned
+113,FDE41,reg,"Frozen Foods"
+114,FDP24,"Low Fat","Baking Goods"
+115,FDH38,"Low Fat",Canned
+116,FDT49,"Low Fat",Canned
+117,FDN02,"Low Fat",Canned
+118,FDT02,"Low Fat",Dairy
+119,FDF05,"Low Fat","Frozen Foods"
+120,FDI45,"Low Fat","Fruits and Vegetables"
+121,FDZ20,"Low Fat","Fruits and Vegetables"
+122,NCC42,"Low Fat","Health and Hygiene"
+123,NCQ53,"Low Fat","Health and Hygiene"
+124,NCX06,"Low Fat",Household
+125,NCO06,"Low Fat",Household
+126,NCN54,"Low Fat",Household
+127,FDL27,"Low Fat",Meat
+128,FDV51,"Low Fat",Meat
+129,FDC46,"Low Fat","Snack Foods"
+130,FDZ58,"Low Fat","Snack Foods"
+131,FDN21,"Low Fat","Snack Foods"
+132,FDO58,"Low Fat","Snack Foods"
+133,DRD24,"Low Fat","Soft Drinks"
+134,DRI37,"Low Fat","Soft Drinks"
+135,FDI12,Regular,"Baking Goods"
+136,FDP12,Regular,"Baking Goods"
+137,FDO01,Regular,Breakfast
+138,FDZ37,Regular,Canned
+139,FDJ15,Regular,Dairy
+140,FDM04,Regular,"Frozen Foods"
+141,FDI40,Regular,"Frozen Foods"
+142,FDX04,Regular,"Frozen Foods"
+143,FDS15,Regular,Meat
+144,FDJ57,Regular,Seafood
+145,FDG21,Regular,Seafood
+146,FDW21,Regular,"Snack Foods"
+147,FDX10,Regular,"Snack Foods"
+148,NCZ17,LF,"Health and Hygiene"
+149,DRE25,LF,"Soft Drinks"
+150,FDT60,"Low Fat","Baking Goods"
+151,FDN24,"Low Fat","Baking Goods"
+152,FDO37,"Low Fat",Breakfast
+153,FDI14,"Low Fat",Canned
+154,FDW37,"Low Fat",Canned
+155,DRC27,"Low Fat",Dairy
+156,FDK16,"Low Fat","Frozen Foods"
+157,FDK41,"Low Fat","Frozen Foods"
+158,FDY31,"Low Fat","Fruits and Vegetables"
+159,FDG57,"Low Fat","Fruits and Vegetables"
+160,FDN32,"Low Fat","Fruits and Vegetables"
+161,FDX19,"Low Fat","Fruits and Vegetables"
+162,FDP20,"Low Fat","Fruits and Vegetables"
+163,NCR17,"Low Fat","Health and Hygiene"
+164,NCT17,"Low Fat","Health and Hygiene"
+165,NCT42,"Low Fat",Household
+166,NCV18,"Low Fat",Household
+167,NCH43,"Low Fat",Household
+168,NCE18,"Low Fat",Household
+169,NCC18,"Low Fat",Household
+170,NCJ42,"Low Fat",Household
+171,FDQ10,"Low Fat","Snack Foods"
+172,FDL34,"Low Fat","Snack Foods"
+173,DRK37,"Low Fat","Soft Drinks"
+174,DRF48,"Low Fat","Soft Drinks"
+175,DRG49,"Low Fat","Soft Drinks"
+176,FDX60,"Low Fat","Baking Goods"
+177,FDS13,"Low Fat",Canned
+178,FDC50,"Low Fat",Canned
+179,FDK51,"Low Fat",Dairy
+180,FDD17,"Low Fat","Frozen Foods"
+181,FDJ28,"Low Fat","Frozen Foods"
+182,FDP16,"Low Fat","Frozen Foods"
+183,FDB20,"Low Fat","Fruits and Vegetables"
+184,FDP56,"Low Fat","Fruits and Vegetables"
+185,FDT43,"Low Fat","Fruits and Vegetables"
+186,DRI59,"Low Fat","Hard Drinks"
+187,DRM23,"Low Fat","Hard Drinks"
+188,NCN53,"Low Fat","Health and Hygiene"
+189,NCT53,"Low Fat","Health and Hygiene"
+190,NCQ05,"Low Fat","Health and Hygiene"
+191,NCM53,"Low Fat","Health and Hygiene"
+192,NCX42,"Low Fat",Household
+193,NCT18,"Low Fat",Household
+194,NCE54,"Low Fat",Household
+195,FDT03,"Low Fat",Meat
+196,NCN19,"Low Fat",Others
+197,NCQ43,"Low Fat",Others
+198,FDK09,"Low Fat","Snack Foods"
+199,FDV46,"Low Fat","Snack Foods"
+200,FDY46,"Low Fat","Snack Foods"
+201,FDK26,Regular,Canned
+202,FDI50,Regular,Canned
+203,FDB26,Regular,Canned
+204,FDY49,Regular,Canned
+205,FDB04,Regular,Dairy
+206,FDZ28,Regular,"Frozen Foods"
+207,FDE17,Regular,"Frozen Foods"
+208,FDQ19,Regular,"Fruits and Vegetables"
+209,FDM08,Regular,"Fruits and Vegetables"
+210,FDP03,Regular,Meat
+211,FDU58,Regular,"Snack Foods"
+212,FDU46,Regular,"Snack Foods"
+213,FDY34,Regular,"Snack Foods"
+214,FDO09,Regular,"Snack Foods"
+215,FDP48,Regular,"Baking Goods"
+216,FDY12,Regular,"Baking Goods"
+217,FDX48,Regular,"Baking Goods"
+218,FDV60,Regular,"Baking Goods"
+219,FDQ47,Regular,Breads
+220,FDZ13,Regular,Canned
+221,FDS04,Regular,"Frozen Foods"
+222,FDV28,Regular,"Frozen Foods"
+223,FDU19,Regular,"Fruits and Vegetables"
+224,FDE56,Regular,"Fruits and Vegetables"
+225,FDI07,Regular,Meat
+226,FDU27,Regular,Meat
+227,FDN39,Regular,Meat
+228,FDV10,Regular,"Snack Foods"
+229,FDB23,Regular,"Starchy Foods"
+230,NCY41,"low fat","Health and Hygiene"
+231,FDW31,reg,"Fruits and Vegetables"
+232,FDR55,reg,"Fruits and Vegetables"
+233,DRF49,LF,"Soft Drinks"
+234,FDA23,"Low Fat","Baking Goods"
+235,FDR60,"Low Fat","Baking Goods"
+236,FDN60,"Low Fat","Baking Goods"
+237,FDU48,"Low Fat","Baking Goods"
+238,FDG60,"Low Fat","Baking Goods"
+239,FDU11,"Low Fat",Breads
+240,FDS37,"Low Fat",Canned
+241,FDK50,"Low Fat",Canned
+242,FDG26,"Low Fat",Canned
+243,FDD14,"Low Fat",Canned
+244,FDD16,"Low Fat","Frozen Foods"
+245,FDZ44,"Low Fat","Fruits and Vegetables"
+246,FDO44,"Low Fat","Fruits and Vegetables"
+247,NCU17,"Low Fat","Health and Hygiene"
+248,NCL41,"Low Fat","Health and Hygiene"
+249,NCS53,"Low Fat","Health and Hygiene"
+250,NCV17,"Low Fat","Health and Hygiene"
+251,NCO14,"Low Fat",Household
+252,NCU18,"Low Fat",Household
+253,NCI54,"Low Fat",Household
+254,NCQ50,"Low Fat",Household
+255,FDL10,"Low Fat","Snack Foods"
+256,FDE34,"Low Fat","Snack Foods"
+257,FDL46,"Low Fat","Snack Foods"
+258,FDH10,"Low Fat","Snack Foods"
+259,DRE60,"Low Fat","Soft Drinks"
+260,DRD60,"Low Fat","Soft Drinks"
+261,FDR36,Regular,"Baking Goods"
+262,FDL24,Regular,"Baking Goods"
+263,FDM36,Regular,"Baking Goods"
+264,FDD26,Regular,Canned
+265,FDI02,Regular,Canned
+266,FDE04,Regular,"Frozen Foods"
+267,FDV20,Regular,"Fruits and Vegetables"
+268,FDW03,Regular,Meat
+269,FDX51,Regular,Meat
+270,FDR03,Regular,Meat
+271,FDJ58,Regular,"Snack Foods"
+272,FDR48,"Low Fat","Baking Goods"
+273,FDO16,"Low Fat","Frozen Foods"
+274,FDE53,"Low Fat","Frozen Foods"
+275,FDV31,"Low Fat","Fruits and Vegetables"
+276,FDF32,"Low Fat","Fruits and Vegetables"
+277,DRN35,"Low Fat","Hard Drinks"
+278,NCQ17,"Low Fat","Health and Hygiene"
+279,NCN06,"Low Fat",Household
+280,NCF30,"Low Fat",Household
+281,FDQ39,"Low Fat",Meat
+282,FDL45,"Low Fat","Snack Foods"
+283,FDR10,"Low Fat","Snack Foods"
+284,FDZ09,"Low Fat","Snack Foods"
+285,DRJ13,"Low Fat","Soft Drinks"
+286,DRH25,"Low Fat","Soft Drinks"
+287,FDC60,Regular,"Baking Goods"
+288,FDJ36,Regular,"Baking Goods"
+289,FDU47,Regular,Breads
+290,FDA03,Regular,Dairy
+291,FDY40,Regular,"Frozen Foods"
+292,FDZ16,Regular,"Frozen Foods"
+293,FDW07,Regular,"Fruits and Vegetables"
+294,FDW23,"Low Fat","Baking Goods"
+295,FDW59,"Low Fat",Breads
+296,FDB15,"Low Fat",Dairy
+297,FDG16,"Low Fat","Frozen Foods"
+298,FDJ04,"Low Fat","Frozen Foods"
+299,FDJ32,"Low Fat","Fruits and Vegetables"
+300,FDM56,"Low Fat","Fruits and Vegetables"
+301,FDB45,"Low Fat","Fruits and Vegetables"
+302,DRJ23,"Low Fat","Hard Drinks"
+303,NCF43,"Low Fat",Household
+304,NCB55,"Low Fat",Household
+305,NCN30,"Low Fat",Household
+306,FDF22,"Low Fat","Snack Foods"
+307,DRK13,"Low Fat","Soft Drinks"
+308,DRL37,"Low Fat","Soft Drinks"
+309,FDL38,Regular,Canned
+310,FDV13,Regular,Canned
+311,FDF53,Regular,"Frozen Foods"
+312,FDD21,Regular,"Fruits and Vegetables"
+313,FDO20,Regular,"Fruits and Vegetables"
+314,FDC21,Regular,"Fruits and Vegetables"
+315,FDV19,Regular,"Fruits and Vegetables"
+316,FDW43,Regular,"Fruits and Vegetables"
+317,FDO46,Regular,"Snack Foods"
+318,FDT10,reg,"Snack Foods"
+319,FDU23,"Low Fat",Breads
+320,FDM13,"Low Fat",Breakfast
+321,FDB50,"Low Fat",Canned
+322,FDC04,"Low Fat",Dairy
+323,DRF03,"Low Fat",Dairy
+324,FDG53,"Low Fat","Frozen Foods"
+325,FDE08,"Low Fat","Fruits and Vegetables"
+326,FDQ44,"Low Fat","Fruits and Vegetables"
+327,DRJ47,"Low Fat","Hard Drinks"
+328,NCO05,"Low Fat","Health and Hygiene"
+329,NCB54,"Low Fat","Health and Hygiene"
+330,NCE06,"Low Fat",Household
+331,NCP14,"Low Fat",Household
+332,NCH06,"Low Fat",Household
+333,NCH55,"Low Fat",Household
+334,NCN42,"Low Fat",Household
+335,FDM03,"Low Fat",Meat
+336,FDK55,"Low Fat",Meat
+337,FDU39,"Low Fat",Meat
+338,NCO07,"Low Fat",Others
+339,FDI46,"Low Fat","Snack Foods"
+340,FDD22,"Low Fat","Snack Foods"
+341,FDZ45,"Low Fat","Snack Foods"
+342,FDT45,"Low Fat","Snack Foods"
+343,FDA45,"Low Fat","Snack Foods"
+344,DRI01,"Low Fat","Soft Drinks"
+345,FDB02,Regular,Canned
+346,FDM50,Regular,Canned
+347,FDC14,Regular,Canned
+348,FDH50,Regular,Canned
+349,FDD52,Regular,Dairy
+350,FDH04,Regular,"Frozen Foods"
+351,FDH56,Regular,"Fruits and Vegetables"
+352,FDX31,Regular,"Fruits and Vegetables"
+353,FDO51,Regular,Meat
+354,FDV22,Regular,"Snack Foods"
+355,FDJ21,Regular,"Snack Foods"
+356,FDU25,"Low Fat",Canned
+357,FDC53,"Low Fat","Frozen Foods"
+358,FDD28,"Low Fat","Frozen Foods"
+359,FDO40,"Low Fat","Frozen Foods"
+360,FDT40,"Low Fat","Frozen Foods"
+361,FDD33,"Low Fat","Fruits and Vegetables"
+362,NCY53,"Low Fat","Health and Hygiene"
+363,NCE19,"Low Fat",Household
+364,NCE55,"Low Fat",Household
+365,NCG43,"Low Fat",Household
+366,NCU42,"Low Fat",Household
+367,NCJ19,"Low Fat",Others
+368,FDD46,"Low Fat","Snack Foods"
+369,FDL33,"Low Fat","Snack Foods"
+370,FDP09,"Low Fat","Snack Foods"
+371,FDE36,Regular,"Baking Goods"
+372,FDG12,Regular,"Baking Goods"
+373,FDU24,Regular,"Baking Goods"
+374,FDK25,Regular,Breakfast
+375,FDB14,Regular,Canned
+376,FDZ02,Regular,Dairy
+377,FDH05,Regular,"Frozen Foods"
+378,FDT19,Regular,"Fruits and Vegetables"
+379,FDW19,Regular,"Fruits and Vegetables"
+380,FDR51,Regular,Meat
+381,FDP49,Regular,Breakfast
+382,FDR21,"Low Fat","Snack Foods"
+383,FDQ36,Regular,"Baking Goods"
+384,FDE20,Regular,"Fruits and Vegetables"
+385,FDK38,"Low Fat",Canned
+386,FDN04,Regular,"Frozen Foods"
+387,NCP42,"Low Fat",Household
+388,FDY11,reg,"Baking Goods"
+389,FDW28,"Low Fat","Frozen Foods"
+390,NCL53,"Low Fat","Health and Hygiene"
+391,FDW57,Regular,"Snack Foods"
+392,NCN07,"Low Fat",Others
+393,FDP28,Regular,"Frozen Foods"
+394,FDR52,Regular,"Frozen Foods"
+395,FDY56,Regular,"Fruits and Vegetables"
+396,FDY22,Regular,"Snack Foods"
+397,FDD36,"Low Fat","Baking Goods"
+398,FDP19,"Low Fat","Fruits and Vegetables"
+399,FDF20,"Low Fat","Fruits and Vegetables"
+400,NCB31,"Low Fat",Household
+401,DRE12,"Low Fat","Soft Drinks"
+402,DRK01,"Low Fat","Soft Drinks"
+403,FDJ34,Regular,"Snack Foods"
+404,FDH41,LF,"Frozen Foods"
+405,FDQ12,"Low Fat","Baking Goods"
+406,FDZ27,"Low Fat",Dairy
+407,FDI22,"Low Fat","Snack Foods"
+408,FDW02,Regular,Dairy
+409,FDR15,Regular,Meat
+410,FDN34,Regular,"Snack Foods"
+411,NCV41,"Low Fat","Health and Hygiene"
+412,NCM19,"Low Fat",Others
+413,FDP31,Regular,"Fruits and Vegetables"
+414,FDQ45,Regular,"Snack Foods"
+415,FDO21,Regular,"Snack Foods"
+416,FDQ24,"Low Fat","Baking Goods"
+417,NCC54,"Low Fat","Health and Hygiene"
+418,FDZ40,"Low Fat","Frozen Foods"
+419,NCM07,"Low Fat",Others
+420,NCP50,"Low Fat",Others
+421,FDF46,"Low Fat","Snack Foods"
+422,FDZ32,Regular,"Fruits and Vegetables"
+423,NCM06,LF,Household
+424,FDK24,"Low Fat","Baking Goods"
+425,NCL05,"Low Fat","Health and Hygiene"
+426,NCA29,"Low Fat",Household
+427,NCP30,"Low Fat",Household
+428,FDX58,LF,"Snack Foods"
+429,FDW24,"Low Fat","Baking Goods"
+430,FDH48,"Low Fat","Baking Goods"
+431,FDE22,"Low Fat","Snack Foods"
+432,FDR11,Regular,Breads
+433,DRC01,Regular,"Soft Drinks"
+434,FDE11,Regular,"Starchy Foods"
+435,FDW50,"Low Fat",Dairy
+436,DRJ39,"Low Fat",Dairy
+437,FDJ46,"Low Fat","Snack Foods"
+438,FDR20,Regular,"Fruits and Vegetables"
+439,FDS33,Regular,"Snack Foods"
+440,FDK32,Regular,"Fruits and Vegetables"
+441,FDO03,Regular,Meat
+442,FDC59,Regular,"Starchy Foods"
+443,FDS12,"Low Fat","Baking Goods"
+444,FDT44,"Low Fat","Fruits and Vegetables"
+445,FDD08,"Low Fat","Fruits and Vegetables"
+446,FDR39,LF,Meat
+447,DRI03,"Low Fat",Dairy
+448,FDJ52,"Low Fat","Frozen Foods"
+449,NCD42,"Low Fat","Health and Hygiene"
+450,FDY35,Regular,Breads
+451,FDT26,Regular,Dairy
+452,FDE28,Regular,"Frozen Foods"
+453,FDP45,Regular,"Snack Foods"
+454,DRH51,"Low Fat",Dairy
+455,FDH52,Regular,"Frozen Foods"
+456,FDC10,Regular,"Snack Foods"
+457,FDY27,LF,Dairy
+458,FDY52,"Low Fat","Frozen Foods"
+459,DRI47,"Low Fat","Hard Drinks"
+460,NCT05,"Low Fat","Health and Hygiene"
+461,NCW17,"Low Fat","Health and Hygiene"
+462,FDA39,"Low Fat",Meat
+463,FDS25,Regular,Canned
+464,FDC16,Regular,Dairy
+465,FDN28,Regular,"Frozen Foods"
+466,FDD48,"Low Fat","Baking Goods"
+467,FDW13,"Low Fat",Canned
+468,DRD15,"Low Fat",Dairy
+469,FDH32,"Low Fat","Fruits and Vegetables"
+470,NCV30,"Low Fat",Household
+471,FDW10,"Low Fat","Snack Foods"
+472,DRA59,Regular,"Soft Drinks"
+473,FDT37,"Low Fat",Canned
+474,DRH03,"Low Fat",Dairy
+475,FDA58,"Low Fat","Snack Foods"
+476,FDI41,Regular,"Frozen Foods"
+477,FDC57,Regular,"Fruits and Vegetables"
+478,FDT27,Regular,Meat
+479,FDK04,"Low Fat","Frozen Foods"
+480,NCZ53,"Low Fat","Health and Hygiene"
+481,FDV04,Regular,"Frozen Foods"
+482,FDR22,Regular,"Snack Foods"
+483,FDO24,"Low Fat","Baking Goods"
+484,NCH29,"Low Fat","Health and Hygiene"
+485,NCW54,"Low Fat",Household
+486,FDQ46,"Low Fat","Snack Foods"
+487,FDV38,"Low Fat",Dairy
+488,FDJ53,"Low Fat","Frozen Foods"
+489,FDW49,"Low Fat",Canned
+490,NCW53,"Low Fat","Health and Hygiene"
+491,NCB18,"Low Fat",Household
+492,DRD13,"Low Fat","Soft Drinks"
+493,DRF01,"Low Fat","Soft Drinks"
+494,FDN48,"Low Fat","Baking Goods"
+495,FDQ49,Regular,Breakfast
+496,DRG27,"Low Fat",Dairy
+497,FDD03,"Low Fat",Dairy
+498,FDJ60,Regular,"Baking Goods"
+499,FDG52,"Low Fat","Frozen Foods"
+500,FDU59,"Low Fat",Breads
+501,DRK39,"Low Fat",Dairy
+502,DRL60,"Low Fat","Soft Drinks"
+503,FDA35,Regular,"Baking Goods"
+504,FDQ40,Regular,"Frozen Foods"
+505,FDH44,Regular,"Fruits and Vegetables"
+506,FDW26,Regular,Dairy
+507,FDB35,Regular,"Starchy Foods"
+508,FDB08,"Low Fat","Fruits and Vegetables"
+509,NCY18,"Low Fat",Household
+510,FDD40,Regular,Dairy
+511,FDM58,Regular,"Snack Foods"
+512,FDC45,"Low Fat","Fruits and Vegetables"
+513,FDB33,"Low Fat","Fruits and Vegetables"
+514,NCL54,"Low Fat",Household
+515,NCC07,"Low Fat",Household
+516,FDP60,"Low Fat","Baking Goods"
+517,FDJ07,"Low Fat",Meat
+518,DRD12,"Low Fat","Soft Drinks"
+519,DRN37,"Low Fat","Soft Drinks"
+520,DRF37,"Low Fat","Soft Drinks"
+521,FDX35,Regular,Breads
+522,FDJ27,Regular,Meat
+523,FDF10,Regular,"Snack Foods"
+524,DRC13,Regular,"Soft Drinks"
+525,FDU03,Regular,Meat
+526,NCK05,"Low Fat","Health and Hygiene"
+527,NCJ18,"Low Fat",Household
+528,NCE30,"Low Fat",Household
+529,FDX15,"Low Fat",Meat
+530,FDT22,"Low Fat","Snack Foods"
+531,DRL49,"Low Fat","Soft Drinks"
+532,FDF29,Regular,"Frozen Foods"
+533,FDT56,Regular,"Fruits and Vegetables"
+534,FDN03,Regular,Meat
+535,FDW15,Regular,Meat
+536,FDU51,Regular,Meat
+537,FDQ14,"Low Fat",Dairy
+538,DRE03,"Low Fat",Dairy
+539,FDG47,"Low Fat","Starchy Foods"
+540,DRG03,"Low Fat",Dairy
+541,FDB52,"Low Fat",Dairy
+542,FDK40,"Low Fat","Frozen Foods"
+543,NCP41,"Low Fat","Health and Hygiene"
+544,NCO43,"Low Fat",Others
+545,FDR46,"Low Fat","Snack Foods"
+546,FDW58,"Low Fat","Snack Foods"
+547,FDX36,Regular,"Baking Goods"
+548,FDM01,Regular,Breakfast
+549,FDX38,Regular,Dairy
+550,FDH53,Regular,"Frozen Foods"
+551,FDZ51,Regular,Meat
+552,FDV57,Regular,"Snack Foods"
+553,FDV59,LF,Breads
+554,FDV35,"Low Fat",Breads
+555,FDK14,"Low Fat",Canned
+556,FDD57,"Low Fat","Fruits and Vegetables"
+557,FDA10,"Low Fat","Snack Foods"
+558,FDS31,Regular,"Fruits and Vegetables"
+559,FDW39,Regular,Meat
+560,FDY39,Regular,Meat
+561,NCP18,"Low Fat",Household
+562,FDY58,"Low Fat","Snack Foods"
+563,NCB06,"Low Fat","Health and Hygiene"
+564,FDB36,Regular,"Baking Goods"
+565,FDR47,LF,Breads
+566,FDE10,Regular,"Snack Foods"
+567,FDL22,"Low Fat","Snack Foods"
+568,NCD06,"Low Fat",Household
+569,NCT54,"Low Fat",Household
+570,NCS54,"Low Fat",Household
+571,NCJ54,"Low Fat",Household
+572,FDJ20,Regular,"Fruits and Vegetables"
+573,DRM11,"Low Fat","Hard Drinks"
+574,FDK44,"Low Fat","Fruits and Vegetables"
+575,FDP10,"Low Fat","Snack Foods"
+576,FDG14,Regular,Canned
+577,FDO34,"Low Fat","Snack Foods"
+578,NCN41,"Low Fat","Health and Hygiene"
+579,DRE27,"Low Fat",Dairy
+580,FDU40,"Low Fat","Frozen Foods"
+581,NCL55,"Low Fat",Others
+582,FDJ55,Regular,Meat
+583,NCN43,"Low Fat",Others
+584,FDZ60,"Low Fat","Baking Goods"
+585,FDS23,"Low Fat",Breads
+586,FDR02,"Low Fat",Dairy
+587,FDF17,"Low Fat","Frozen Foods"
+588,FDR43,"Low Fat","Fruits and Vegetables"
+589,NCS41,"Low Fat","Health and Hygiene"
+590,NCP05,"Low Fat","Health and Hygiene"
+591,NCN14,"Low Fat",Others
+592,FDH22,"Low Fat","Snack Foods"
+593,FDU22,"Low Fat","Snack Foods"
+594,FDO57,"Low Fat","Snack Foods"
+595,FDQ21,"Low Fat","Snack Foods"
+596,DRG37,"Low Fat","Soft Drinks"
+597,FDB11,"Low Fat","Starchy Foods"
+598,FDL14,Regular,Canned
+599,FDQ01,Regular,Canned
+600,FDI05,Regular,"Frozen Foods"
+601,FDJ10,Regular,"Snack Foods"
+602,FDY32,"Low Fat","Fruits and Vegetables"
+603,NCO30,"Low Fat",Household
+604,NCQ06,"Low Fat",Household
+605,NCV06,"Low Fat",Household
+606,NCZ54,"Low Fat",Household
+607,FDR33,"Low Fat","Snack Foods"
+608,FDS57,"Low Fat","Snack Foods"
+609,DRH01,"Low Fat","Soft Drinks"
+610,FDL57,Regular,"Snack Foods"
+611,FDT09,Regular,"Snack Foods"
+612,FDY33,Regular,"Snack Foods"
+613,FDX43,LF,"Fruits and Vegetables"
+614,FDS47,"Low Fat",Breads
+615,FDN01,"Low Fat",Breakfast
+616,DRG51,"Low Fat",Dairy
+617,FDB05,"Low Fat","Frozen Foods"
+618,FDD29,"Low Fat","Frozen Foods"
+619,FDZ19,"Low Fat","Fruits and Vegetables"
+620,FDY55,"Low Fat","Fruits and Vegetables"
+621,NCW41,"Low Fat","Health and Hygiene"
+622,NCY17,"Low Fat","Health and Hygiene"
+623,NCC19,"Low Fat",Household
+624,NCJ43,"Low Fat",Household
+625,NCO18,"Low Fat",Household
+626,FDW33,"Low Fat","Snack Foods"
+627,DRC12,"Low Fat","Soft Drinks"
+628,FDZ01,Regular,Canned
+629,FDJ14,Regular,Canned
+630,FDA08,Regular,"Fruits and Vegetables"
+631,FDX55,"low fat","Fruits and Vegetables"
+632,NCF55,LF,Household
+633,FDL36,"Low Fat","Baking Goods"
+634,FDH27,"Low Fat",Dairy
+635,FDI52,"Low Fat","Frozen Foods"
+636,FDD45,"Low Fat","Fruits and Vegetables"
+637,NCA41,"Low Fat","Health and Hygiene"
+638,NCX17,"Low Fat","Health and Hygiene"
+639,NCV54,"Low Fat",Household
+640,FDO12,"Low Fat","Baking Goods"
+641,FDB44,"Low Fat","Fruits and Vegetables"
+642,FDE57,"Low Fat","Fruits and Vegetables"
+643,FDN20,"Low Fat","Fruits and Vegetables"
+644,NCD19,"Low Fat",Household
+645,NCG55,"Low Fat",Household
+646,NCO54,"Low Fat",Household
+647,FDE46,"Low Fat","Snack Foods"
+648,FDR37,Regular,Breakfast
+649,FDA25,Regular,Canned
+650,FDU50,Regular,Dairy
+651,FDG46,Regular,"Snack Foods"
+652,FDM12,Regular,"Baking Goods"
+653,FDW38,Regular,Dairy
+654,FDZ14,Regular,Dairy
+655,FDS19,Regular,"Fruits and Vegetables"
+656,FDU35,"low fat",Breads
+657,FDA13,"Low Fat",Canned
+658,FDT04,"Low Fat","Frozen Foods"
+659,NCZ41,"Low Fat","Health and Hygiene"
+660,NCD54,"Low Fat",Household
+661,FDQ09,"Low Fat","Snack Foods"
+662,FDI48,Regular,"Baking Goods"
+663,FDZ49,Regular,Canned
+664,FDJ02,Regular,Canned
+665,FDN46,Regular,"Snack Foods"
+666,FDI34,Regular,"Snack Foods"
+667,FDG22,Regular,"Snack Foods"
+668,FDB17,"Low Fat","Frozen Foods"
+669,DRK35,"Low Fat","Hard Drinks"
+670,NCP29,"Low Fat","Health and Hygiene"
+671,NCZ29,"Low Fat","Health and Hygiene"
+672,NCS30,"Low Fat",Household
+673,NCA42,"Low Fat",Household
+674,FDT58,"Low Fat","Snack Foods"
+675,FDT12,Regular,"Baking Goods"
+676,FDW12,Regular,"Baking Goods"
+677,FDF26,Regular,Canned
+678,FDV37,Regular,Canned
+679,FDO22,Regular,"Snack Foods"
+680,FDC41,"Low Fat","Frozen Foods"
+681,FDS07,"Low Fat","Fruits and Vegetables"
+682,DRH37,"Low Fat","Soft Drinks"
+683,FDH02,Regular,Canned
+684,FDC51,Regular,Dairy
+685,FDT07,Regular,"Fruits and Vegetables"
+686,FDJ44,Regular,"Fruits and Vegetables"
+687,FDI10,reg,"Snack Foods"
+688,FDD11,LF,"Starchy Foods"
+689,FDN12,"Low Fat","Baking Goods"
+690,FDQ52,"Low Fat","Frozen Foods"
+691,FDJ08,"Low Fat","Fruits and Vegetables"
+692,FDY19,"Low Fat","Fruits and Vegetables"
+693,NCP17,"Low Fat","Health and Hygiene"
+694,NCS38,"Low Fat",Household
+695,DRJ25,"Low Fat","Soft Drinks"
+696,FDY26,Regular,Dairy
+697,FDP11,"Low Fat",Breads
+698,FDR23,"Low Fat",Breads
+699,FDB27,"Low Fat",Dairy
+700,FDK28,"Low Fat","Frozen Foods"
+701,FDK52,"Low Fat","Frozen Foods"
+702,FDU52,"Low Fat","Frozen Foods"
+703,NCA06,"Low Fat",Household
+704,NCH54,"Low Fat",Household
+705,NCZ06,"Low Fat",Household
+706,NCL07,"Low Fat",Others
+707,FDF24,Regular,"Baking Goods"
+708,FDR40,Regular,"Frozen Foods"
+709,FDW16,Regular,"Frozen Foods"
+710,FDY04,Regular,"Frozen Foods"
+711,FDO31,Regular,"Fruits and Vegetables"
+712,FDF34,Regular,"Snack Foods"
+713,DRC36,Regular,"Soft Drinks"
+714,FDQ23,"low fat",Breads
+715,NCS05,"low fat","Health and Hygiene"
+716,FDB34,"Low Fat","Snack Foods"
+717,FDB56,Regular,"Fruits and Vegetables"
+718,FDG02,"Low Fat",Canned
+719,FDM15,Regular,Meat
+720,FDO08,Regular,"Fruits and Vegetables"
+721,FDI24,"Low Fat","Baking Goods"
+722,FDS46,Regular,"Snack Foods"
+723,FDG28,Regular,"Frozen Foods"
+724,FDQ56,"Low Fat","Fruits and Vegetables"
+725,FDX23,"Low Fat","Baking Goods"
+726,FDR44,Regular,"Fruits and Vegetables"
+727,FDU01,Regular,Canned
+728,FDP59,Regular,Breads
+729,FDZ15,"Low Fat",Dairy
+730,FDA36,"Low Fat","Baking Goods"
+731,NCT41,"Low Fat","Health and Hygiene"
+732,NCK54,"Low Fat",Household
+733,FDE16,"Low Fat","Frozen Foods"
+734,NCL19,"Low Fat",Others
+735,FDT32,Regular,"Fruits and Vegetables"
+736,FDS10,"Low Fat","Snack Foods"
+737,FDQ15,Regular,Meat
+738,FDV01,Regular,Canned
+739,FDD04,"Low Fat",Dairy
+740,NCL31,LF,Others
+741,FDA33,LF,"Snack Foods"
+742,FDT59,"Low Fat",Breads
+743,FDE26,"Low Fat",Canned
+744,FDC17,"Low Fat","Frozen Foods"
+745,FDM44,"Low Fat","Fruits and Vegetables"
+746,DRI11,"Low Fat","Hard Drinks"
+747,DRL47,"Low Fat","Hard Drinks"
+748,NCB30,"Low Fat",Household
+749,NCI18,"Low Fat",Household
+750,NCP06,"Low Fat",Household
+751,NCO02,"Low Fat",Others
+752,DRE37,"Low Fat","Soft Drinks"
+753,FDJ12,Regular,"Baking Goods"
+754,FDX11,Regular,"Baking Goods"
+755,FDB37,Regular,"Baking Goods"
+756,FDY15,Regular,Dairy
+757,FDY20,Regular,"Fruits and Vegetables"
+758,FDP44,Regular,"Fruits and Vegetables"
+759,FDS32,Regular,"Fruits and Vegetables"
+760,FDG09,Regular,"Fruits and Vegetables"
+761,FDW51,Regular,Meat
+762,FDK58,Regular,"Snack Foods"
+763,FDA09,Regular,"Snack Foods"
+764,DRM49,Regular,"Soft Drinks"
+765,FDD47,Regular,"Starchy Foods"
+766,FDC03,reg,Dairy
+767,FDU31,reg,"Fruits and Vegetables"
+768,FDX24,LF,"Baking Goods"
+769,FDH08,"Low Fat","Fruits and Vegetables"
+770,FDR08,"Low Fat","Fruits and Vegetables"
+771,FDU07,"Low Fat","Fruits and Vegetables"
+772,FDU32,"Low Fat","Fruits and Vegetables"
+773,NCB19,"Low Fat",Household
+774,FDK33,"Low Fat","Snack Foods"
+775,FDX09,"Low Fat","Snack Foods"
+776,FDZ22,"Low Fat","Snack Foods"
+777,FDY38,Regular,Dairy
+778,FDP40,Regular,"Frozen Foods"
+779,FDD51,"low fat",Dairy
+780,FDZ48,"Low Fat","Baking Goods"
+781,FDT28,"Low Fat","Frozen Foods"
+782,DRN11,"Low Fat","Hard Drinks"
+783,NCI29,"Low Fat","Health and Hygiene"
+784,NCP43,"Low Fat",Others
+785,FDP57,"Low Fat","Snack Foods"
+786,FDA22,"Low Fat","Starchy Foods"
+787,FDW40,Regular,"Frozen Foods"
+788,FDC33,Regular,"Fruits and Vegetables"
+789,FDO39,Regular,Meat
+790,FDI21,Regular,"Snack Foods"
+791,FDW09,Regular,"Snack Foods"
+792,FDN58,Regular,"Snack Foods"
+793,FDT36,"Low Fat","Baking Goods"
+794,FDS35,"Low Fat",Breads
+795,FDX59,"Low Fat",Breads
+796,FDF14,"Low Fat",Canned
+797,FDX26,"Low Fat",Dairy
+798,FDX16,"Low Fat","Frozen Foods"
+799,FDA56,"Low Fat","Fruits and Vegetables"
+800,FDP07,"Low Fat","Fruits and Vegetables"
+801,NCD43,"Low Fat",Household
+802,NCB43,"Low Fat",Household
+803,FDK45,"Low Fat",Seafood
+804,FDK48,"Low Fat","Baking Goods"
+805,FDZ38,"Low Fat",Dairy
+806,DRH39,"Low Fat",Dairy
+807,FDQ16,"Low Fat","Frozen Foods"
+808,FDX20,"Low Fat","Fruits and Vegetables"
+809,DRK23,"Low Fat","Hard Drinks"
+810,DRO47,"Low Fat","Hard Drinks"
+811,NCI17,"Low Fat","Health and Hygiene"
+812,NCL29,"Low Fat","Health and Hygiene"
+813,FDP39,"Low Fat",Meat
+814,FDN16,Regular,"Frozen Foods"
+815,FDG56,Regular,"Fruits and Vegetables"
+816,FDT55,Regular,"Fruits and Vegetables"
+817,FDH20,Regular,"Fruits and Vegetables"
+818,FDA47,Regular,"Baking Goods"
+819,FDS11,Regular,Breads
+820,FDF21,Regular,"Fruits and Vegetables"
+821,FDM51,Regular,Meat
+822,FDI58,Regular,"Snack Foods"
+823,FDM57,Regular,"Snack Foods"
+824,FDU02,"low fat",Dairy
+825,FDD32,reg,"Fruits and Vegetables"
+826,FDV23,"Low Fat",Breads
+827,FDX37,"Low Fat",Canned
+828,FDX40,"Low Fat","Frozen Foods"
+829,DRK11,"Low Fat","Hard Drinks"
+830,DRL23,"Low Fat","Hard Drinks"
+831,NCN05,"Low Fat","Health and Hygiene"
+832,FDA21,"Low Fat","Snack Foods"
+833,FDG59,"Low Fat","Starchy Foods"
+834,FDL12,Regular,"Baking Goods"
+835,FDU37,Regular,Canned
+836,FDE14,Regular,Canned
+837,FDH31,Regular,Meat
+838,FDO15,Regular,Meat
+839,FDG34,Regular,"Snack Foods"
+840,FDH47,Regular,"Starchy Foods"
+841,NCM05,"Low Fat","Health and Hygiene"
+842,NCR53,"Low Fat","Health and Hygiene"
+843,NCF06,"Low Fat",Household
+844,NCV42,"Low Fat",Household
+845,NCU54,"Low Fat",Household
+846,NCK18,"Low Fat",Household
+847,NCC30,"Low Fat",Household
+848,NCF42,"Low Fat",Household
+849,FDP15,"Low Fat",Meat
+850,DRB25,"Low Fat","Soft Drinks"
+851,FDM02,Regular,Canned
+852,FDA01,Regular,Canned
+853,FDI16,Regular,"Frozen Foods"
+854,FDF08,Regular,"Fruits and Vegetables"
+855,FDB58,Regular,"Snack Foods"
+856,FDZ59,reg,"Baking Goods"
+857,FDK36,LF,"Baking Goods"
+858,FDS48,"Low Fat","Baking Goods"
+859,FDC02,"Low Fat",Canned
+860,FDE29,"Low Fat","Frozen Foods"
+861,FDE45,"Low Fat","Fruits and Vegetables"
+862,FDT31,"Low Fat","Fruits and Vegetables"
+863,DRL35,"Low Fat","Hard Drinks"
+864,DRP35,"Low Fat","Hard Drinks"
+865,NCU53,"Low Fat","Health and Hygiene"
+866,NCF19,"Low Fat",Household
+867,NCG19,"Low Fat",Household
+868,FDT21,"Low Fat","Snack Foods"
+869,FDT57,"Low Fat","Snack Foods"
+870,FDP46,"Low Fat","Snack Foods"
+871,DRF13,"Low Fat","Soft Drinks"
+872,DRG36,"Low Fat","Soft Drinks"
+873,FDW52,Regular,"Frozen Foods"
+874,FDY16,Regular,"Frozen Foods"
+875,FDZ43,Regular,"Fruits and Vegetables"
+876,FDE33,Regular,"Fruits and Vegetables"
+877,FDU43,Regular,"Fruits and Vegetables"
+878,FDO25,"Low Fat",Canned
+879,FDY25,"Low Fat",Canned
+880,FDX02,"Low Fat",Dairy
+881,FDU55,"Low Fat","Fruits and Vegetables"
+882,NCH42,"Low Fat",Household
+883,FDK22,"Low Fat","Snack Foods"
+884,FDC58,"Low Fat","Snack Foods"
+885,FDP58,"Low Fat","Snack Foods"
+886,FDV48,Regular,"Baking Goods"
+887,FDK60,Regular,"Baking Goods"
+888,FDS59,Regular,Breads
+889,FDN25,Regular,Breakfast
+890,FDG38,Regular,Canned
+891,FDY28,Regular,"Frozen Foods"
+892,FDT16,Regular,"Frozen Foods"
+893,FDU28,Regular,"Frozen Foods"
+894,FDZ33,"low fat","Snack Foods"
+895,NCJ05,LF,"Health and Hygiene"
+896,FDS01,"Low Fat",Canned
+897,DRI39,"Low Fat",Dairy
+898,FDI28,"Low Fat","Frozen Foods"
+899,FDL04,"Low Fat","Frozen Foods"
+900,DRJ59,"Low Fat","Hard Drinks"
+901,NCO29,"Low Fat","Health and Hygiene"
+902,NCE42,"Low Fat",Household
+903,NCI42,"Low Fat",Household
+904,NCQ54,"Low Fat",Household
+905,FDV45,"Low Fat","Snack Foods"
+906,FDO49,Regular,Breakfast
+907,FDE51,Regular,Dairy
+908,FDR19,Regular,"Fruits and Vegetables"
+909,FDR31,Regular,"Fruits and Vegetables"
+910,FDA46,"Low Fat","Snack Foods"
+911,FDF09,"Low Fat","Fruits and Vegetables"
+912,DRL01,Regular,"Soft Drinks"
+913,NCN55,"Low Fat",Others
+914,FDU44,Regular,"Fruits and Vegetables"
+915,FDT39,Regular,Meat
+916,DRQ35,"Low Fat","Hard Drinks"
+917,FDU09,Regular,"Snack Foods"
+918,FDH26,Regular,Canned
+919,FDL51,Regular,Dairy
+920,NCA54,"Low Fat",Household
+921,FDO28,"Low Fat","Frozen Foods"
+922,FDQ37,"Low Fat",Breakfast
+923,DRG01,"Low Fat","Soft Drinks"
+924,DRH13,"Low Fat","Soft Drinks"
+925,FDY51,"Low Fat",Meat
+926,FDA34,"Low Fat","Starchy Foods"
+927,FDG20,Regular,"Fruits and Vegetables"
+928,FDR24,Regular,"Baking Goods"
+929,NCI43,"Low Fat",Household
+930,FDF40,Regular,Dairy
+931,FDS03,"Low Fat",Meat
+932,FDR58,"Low Fat","Snack Foods"
+933,FDA15,"Low Fat",Dairy
+934,FDS49,"Low Fat",Canned
+935,FDZ35,Regular,Breads
+936,DRM48,"Low Fat","Soft Drinks"
+937,FDC09,Regular,"Fruits and Vegetables"
+938,FDU36,"Low Fat","Baking Goods"
+939,FDN13,"Low Fat",Breakfast
+940,FDD02,"Low Fat",Canned
+941,FDA32,"Low Fat","Fruits and Vegetables"
+942,DRH23,"Low Fat","Hard Drinks"
+943,NCK17,"Low Fat","Health and Hygiene"
+944,NCK53,"Low Fat","Health and Hygiene"
+945,NCR41,"Low Fat","Health and Hygiene"
+946,NCS17,"Low Fat","Health and Hygiene"
+947,NCZ30,"Low Fat",Household
+948,NCY54,"Low Fat",Household
+949,NCM55,"Low Fat",Others
+950,NCI31,"Low Fat",Others
+951,FDX34,"Low Fat","Snack Foods"
+952,FDM46,"Low Fat","Snack Foods"
+953,FDD34,"Low Fat","Snack Foods"
+954,FDM10,"Low Fat","Snack Foods"
+955,DRD37,"Low Fat","Soft Drinks"
+956,FDZ26,Regular,Dairy
+957,FDD41,Regular,"Frozen Foods"
+958,FDV16,Regular,"Frozen Foods"
+959,FDG41,Regular,"Frozen Foods"
+960,FDD44,Regular,"Fruits and Vegetables"
+961,FDV44,Regular,"Fruits and Vegetables"
+962,FDF57,Regular,"Fruits and Vegetables"
+963,FDQ07,Regular,"Fruits and Vegetables"
+964,FDZ31,Regular,"Fruits and Vegetables"
+965,FDM27,Regular,Meat
+966,FDQ03,Regular,Meat
+967,DRY23,Regular,"Soft Drinks"
+968,FDO36,"Low Fat","Baking Goods"
+969,FDP26,"Low Fat",Dairy
+970,FDC28,"Low Fat","Frozen Foods"
+971,FDI20,"Low Fat","Fruits and Vegetables"
+972,FDR07,"Low Fat","Fruits and Vegetables"
+973,NCQ29,"Low Fat","Health and Hygiene"
+974,NCX29,"Low Fat","Health and Hygiene"
+975,NCU06,"Low Fat",Household
+976,FDL15,"Low Fat",Meat
+977,FDP34,"Low Fat","Snack Foods"
+978,FDG08,Regular,"Fruits and Vegetables"
+979,FDQ32,Regular,"Fruits and Vegetables"
+980,FDX56,Regular,"Fruits and Vegetables"
+981,FDX03,Regular,Meat
+982,FDL09,Regular,"Snack Foods"
+983,FDM22,Regular,"Snack Foods"
+984,NCY30,LF,Household
+985,FDS60,"Low Fat","Baking Goods"
+986,FDW47,"Low Fat",Breads
+987,FDU38,"Low Fat",Dairy
+988,FDU14,"Low Fat",Dairy
+989,FDR04,"Low Fat","Frozen Foods"
+990,FDL08,"Low Fat","Fruits and Vegetables"
+991,NCO41,"Low Fat","Health and Hygiene"
+992,NCR06,"Low Fat",Household
+993,NCK19,"Low Fat",Others
+994,FDH33,"Low Fat","Snack Foods"
+995,FDM34,"Low Fat","Snack Foods"
+996,DRE01,"Low Fat","Soft Drinks"
+997,DRF36,"Low Fat","Soft Drinks"
+998,FDQ59,Regular,Breads
+999,FDR59,Regular,Breads
+1000,FDN38,Regular,Canned
+1001,FDT01,Regular,Canned
+1002,FDY37,Regular,Canned
+1003,FDZ03,Regular,Dairy
+1004,FDQ28,Regular,"Frozen Foods"
+1005,FDR32,Regular,"Fruits and Vegetables"
+1006,FDD56,Regular,"Fruits and Vegetables"
+1007,FDC08,Regular,"Fruits and Vegetables"
+1008,FDR57,Regular,"Snack Foods"
+1009,FDU45,Regular,"Snack Foods"
+1010,DRK12,LF,"Soft Drinks"
+1011,FDA48,"Low Fat","Baking Goods"
+1012,FDE24,"Low Fat","Baking Goods"
+1013,FDW48,"Low Fat","Baking Goods"
+1014,FDJ50,"Low Fat",Canned
+1015,FDO38,"Low Fat",Canned
+1016,FDB28,"Low Fat",Dairy
+1017,DRE15,"Low Fat",Dairy
+1018,FDM28,"Low Fat","Frozen Foods"
+1019,DRM47,"Low Fat","Hard Drinks"
+1020,NCM29,"Low Fat","Health and Hygiene"
+1021,NCG54,"Low Fat",Household
+1022,NCY06,"Low Fat",Household
+1023,FDP27,"Low Fat",Meat
+1024,FDQ34,"Low Fat","Snack Foods"
+1025,DRE48,"Low Fat","Soft Drinks"
+1026,FDV36,"Low Fat","Baking Goods"
+1027,FDP38,"Low Fat",Canned
+1028,DRG15,"Low Fat",Dairy
+1029,FDD53,"Low Fat","Frozen Foods"
+1030,FDV40,"Low Fat","Frozen Foods"
+1031,FDV32,"Low Fat","Fruits and Vegetables"
+1032,FDG45,"Low Fat","Fruits and Vegetables"
+1033,FDS20,"Low Fat","Fruits and Vegetables"
+1034,FDE32,"Low Fat","Fruits and Vegetables"
+1035,DRI23,"Low Fat","Hard Drinks"
+1036,NCM17,"Low Fat","Health and Hygiene"
+1037,NCO53,"Low Fat","Health and Hygiene"
+1038,FDW34,"Low Fat","Snack Foods"
+1039,FDK34,"Low Fat","Snack Foods"
+1040,FDM33,"Low Fat","Snack Foods"
+1041,DRG13,"Low Fat","Soft Drinks"
+1042,FDY47,Regular,Breads
+1043,FDU16,Regular,"Frozen Foods"
+1044,FDY08,Regular,"Fruits and Vegetables"
+1045,FDM09,Regular,"Snack Foods"
+1046,FDS34,Regular,"Snack Foods"
+1047,FDM24,Regular,"Baking Goods"
+1048,FDS28,Regular,"Frozen Foods"
+1049,FDS45,Regular,"Snack Foods"
+1050,FDP21,Regular,"Snack Foods"
+1051,FDZ57,Regular,"Snack Foods"
+1052,FDU21,Regular,"Snack Foods"
+1053,FDD10,Regular,"Snack Foods"
+1054,FDI19,"low fat",Meat
+1055,FDQ13,LF,Canned
+1056,FDV47,"Low Fat",Breads
+1057,FDY50,"Low Fat",Dairy
+1058,FDA50,"Low Fat",Dairy
+1059,FDN40,"Low Fat","Frozen Foods"
+1060,FDO32,"Low Fat","Fruits and Vegetables"
+1061,FDC56,"Low Fat","Fruits and Vegetables"
+1062,FDC20,"Low Fat","Fruits and Vegetables"
+1063,FDS43,"Low Fat","Fruits and Vegetables"
+1064,FDT08,"Low Fat","Fruits and Vegetables"
+1065,NCX05,"Low Fat","Health and Hygiene"
+1066,NCS06,"Low Fat",Household
+1067,NCN18,"Low Fat",Household
+1068,NCL18,"Low Fat",Household
+1069,FDN27,"Low Fat",Meat
+1070,DRI49,"Low Fat","Soft Drinks"
+1071,FDY24,Regular,"Baking Goods"
+1072,FDQ26,Regular,Dairy
+1073,FDB03,Regular,Dairy
+1074,FDC29,Regular,"Frozen Foods"
+1075,FDH17,Regular,"Frozen Foods"
+1076,FDU33,Regular,"Snack Foods"
+1077,FDW46,Regular,"Snack Foods"
+1078,DRB13,Regular,"Soft Drinks"
+1079,DRH59,LF,"Hard Drinks"
+1080,FDO60,"Low Fat","Baking Goods"
+1081,FDB32,"Low Fat","Fruits and Vegetables"
+1082,DRG11,"Low Fat","Hard Drinks"
+1083,NCP02,"Low Fat",Household
+1084,NCT30,"Low Fat",Household
+1085,NCR42,"Low Fat",Household
+1086,NCE43,"Low Fat",Household
+1087,NCD55,"Low Fat",Household
+1088,FDH35,"Low Fat","Starchy Foods"
+1089,FDB49,Regular,"Baking Goods"
+1090,FDT11,Regular,Breads
+1091,FDK03,Regular,Dairy
+1092,FDW55,Regular,"Fruits and Vegetables"
+1093,FDP37,"Low Fat",Breakfast
+1094,FDG50,"Low Fat",Canned
+1095,FDH16,"Low Fat","Frozen Foods"
+1096,FDL40,"Low Fat","Frozen Foods"
+1097,FDG32,"Low Fat","Fruits and Vegetables"
+1098,NCS29,"Low Fat","Health and Hygiene"
+1099,NCN26,"Low Fat",Household
+1100,NCS18,"Low Fat",Household
+1101,NCG06,"Low Fat",Household
+1102,NCX30,"Low Fat",Household
+1103,NCF18,"Low Fat",Household
+1104,NCJ06,"Low Fat",Household
+1105,NCP55,"Low Fat",Others
+1106,FDI57,"Low Fat",Seafood
+1107,FDF35,"Low Fat","Starchy Foods"
+1108,FDY01,Regular,Canned
+1109,FDA07,Regular,"Fruits and Vegetables"
+1110,FDK20,Regular,"Fruits and Vegetables"
+1111,FDA55,Regular,"Fruits and Vegetables"
+1112,FDW32,Regular,"Fruits and Vegetables"
+1113,FDR27,Regular,Meat
+1114,FDK10,Regular,"Snack Foods"
+1115,FDC34,Regular,"Snack Foods"
+1116,DRZ11,Regular,"Soft Drinks"
+1117,FDN09,LF,"Snack Foods"
+1118,DRD25,LF,"Soft Drinks"
+1119,FDL16,"Low Fat","Frozen Foods"
+1120,FDB21,"Low Fat","Fruits and Vegetables"
+1121,FDD09,"Low Fat","Fruits and Vegetables"
+1122,NCK30,"Low Fat",Household
+1123,NCW06,"Low Fat",Household
+1124,FDY45,"Low Fat","Snack Foods"
+1125,FDU34,"Low Fat","Snack Foods"
+1126,FDX47,Regular,Breads
+1127,FDA37,Regular,Canned
+1128,FDP13,Regular,Canned
+1129,FDQ25,Regular,Canned
+1130,FDJ03,Regular,Dairy
+1131,FDM16,Regular,"Frozen Foods"
+1132,FDN08,Regular,"Fruits and Vegetables"
+1133,FDF45,Regular,"Fruits and Vegetables"
+1134,FDE23,Regular,"Starchy Foods"
+1135,DRJ01,"low fat","Soft Drinks"
+1136,FDM20,LF,"Fruits and Vegetables"
+1137,FDW08,LF,"Fruits and Vegetables"
+1138,NCR50,LF,Household
+1139,FDJ48,"Low Fat","Baking Goods"
+1140,FDF50,"Low Fat",Canned
+1141,FDX28,"Low Fat","Frozen Foods"
+1142,FDC32,"Low Fat","Fruits and Vegetables"
+1143,FDD20,"Low Fat","Fruits and Vegetables"
+1144,DRK59,"Low Fat","Hard Drinks"
+1145,FDL43,"Low Fat",Meat
+1146,NCM43,"Low Fat",Others
+1147,FDP33,"Low Fat","Snack Foods"
+1148,FDV21,"Low Fat","Snack Foods"
+1149,FDN23,Regular,Breads
+1150,FDQ31,Regular,"Fruits and Vegetables"
+1151,FDL03,Regular,Meat
+1152,FDO27,Regular,Meat
+1153,FDJ33,Regular,"Snack Foods"
+1154,FDZ21,Regular,"Snack Foods"
+1155,FDN22,Regular,"Snack Foods"
+1156,FDM40,"Low Fat","Frozen Foods"
+1157,FDN33,Regular,"Snack Foods"
+1158,NCO17,"Low Fat","Health and Hygiene"
+1159,FDL58,Regular,"Snack Foods"
+1160,DRJ51,"Low Fat",Dairy
+1161,FDY03,Regular,Meat
+1162,FDG29,"Low Fat","Frozen Foods"
+1163,DRP47,"Low Fat","Hard Drinks"
+1164,FDJ22,"Low Fat","Snack Foods"
+1165,FDF11,Regular,"Starchy Foods"
+1166,FDX08,"Low Fat","Fruits and Vegetables"
+1167,DRH15,"Low Fat",Dairy
+1168,FDS26,"Low Fat",Dairy
+1169,FDL48,Regular,"Baking Goods"
+1170,FDB38,Regular,Canned
+1171,FDW44,Regular,"Fruits and Vegetables"
+1172,FDB16,"Low Fat",Dairy
+1173,FDM14,"Low Fat",Canned
+1174,FDV56,Regular,"Fruits and Vegetables"
+1175,FDM52,"Low Fat","Frozen Foods"
+1176,FDH58,"Low Fat","Snack Foods"
+1177,FDZ08,Regular,"Fruits and Vegetables"
+1178,NCK42,"Low Fat",Household
+1179,NCR30,"Low Fat",Household
+1180,FDN52,Regular,"Frozen Foods"
+1181,FDA43,"Low Fat","Fruits and Vegetables"
+1182,NCY05,"Low Fat","Health and Hygiene"
+1183,FDZ12,"Low Fat","Baking Goods"
+1184,FDH24,"Low Fat","Baking Goods"
+1185,FDW25,"Low Fat",Canned
+1186,FDC38,"Low Fat",Canned
+1187,FDS50,"Low Fat",Dairy
+1188,FDN31,"Low Fat","Fruits and Vegetables"
+1189,FDV43,"Low Fat","Fruits and Vegetables"
+1190,FDI32,"Low Fat","Fruits and Vegetables"
+1191,NCG42,"Low Fat",Household
+1192,FDV03,"Low Fat",Meat
+1193,FDQ22,"Low Fat","Snack Foods"
+1194,DRK49,"Low Fat","Soft Drinks"
+1195,FDV11,Regular,Breads
+1196,FDU26,Regular,Dairy
+1197,FDI53,Regular,"Frozen Foods"
+1198,FDU20,Regular,"Fruits and Vegetables"
+1199,FDW36,"Low Fat","Baking Goods"
+1200,FDY13,"Low Fat",Canned
+1201,NCY29,"Low Fat","Health and Hygiene"
+1202,NCG30,"Low Fat",Household
+1203,FDG31,"Low Fat",Meat
+1204,FDV15,"Low Fat",Meat
+1205,DRF25,"Low Fat","Soft Drinks"
+1206,FDH14,Regular,Canned
+1207,FDL52,Regular,"Frozen Foods"
+1208,FDH45,Regular,"Fruits and Vegetables"
+1209,FDO56,Regular,"Fruits and Vegetables"
+1210,FDS21,Regular,"Snack Foods"
+1211,FDR35,"Low Fat",Breads
+1212,FDX13,"Low Fat",Canned
+1213,FDO50,"Low Fat",Canned
+1214,FDG40,"Low Fat","Frozen Foods"
+1215,NCE07,"Low Fat",Household
+1216,FDZ10,"Low Fat","Snack Foods"
+1217,FDW45,"Low Fat","Snack Foods"
+1218,FDN45,"Low Fat","Snack Foods"
+1219,DRZ24,"Low Fat","Soft Drinks"
+1220,FDS36,Regular,"Baking Goods"
+1221,FDI38,Regular,Canned
+1222,FDE05,Regular,"Frozen Foods"
+1223,FDH46,Regular,"Snack Foods"
+1224,FDS58,Regular,"Snack Foods"
+1225,FDY57,Regular,"Snack Foods"
+1226,FDB51,LF,Dairy
+1227,FDU13,"Low Fat",Canned
+1228,DRF51,"Low Fat",Dairy
+1229,FDD39,"Low Fat",Dairy
+1230,FDS40,"Low Fat","Frozen Foods"
+1231,FDL44,"Low Fat","Fruits and Vegetables"
+1232,DRK47,"Low Fat","Hard Drinks"
+1233,NCM41,"Low Fat","Health and Hygiene"
+1234,NCA17,"Low Fat","Health and Hygiene"
+1235,NCO26,"Low Fat",Household
+1236,FDM21,"Low Fat","Snack Foods"
+1237,FDE02,"Low Fat",Canned
+1238,FDQ20,"Low Fat","Fruits and Vegetables"
+1239,FDI44,"Low Fat","Fruits and Vegetables"
+1240,DRF23,"Low Fat","Hard Drinks"
+1241,NCQ30,"Low Fat",Household
+1242,FDS39,"Low Fat",Meat
+1243,FDJ09,"Low Fat","Snack Foods"
+1244,DRM37,"Low Fat","Soft Drinks"
+1245,FDX52,Regular,"Frozen Foods"
+1246,FDS22,Regular,"Snack Foods"
+1247,FDS44,Regular,"Fruits and Vegetables"
+1248,FDR34,Regular,"Snack Foods"
+1249,FDN51,reg,Meat
+1250,NCO42,LF,Household
+1251,FDF33,LF,Seafood
+1252,FDP23,"Low Fat",Breads
+1253,FDP25,"Low Fat",Canned
+1254,FDD50,"Low Fat",Canned
+1255,FDA31,"Low Fat","Fruits and Vegetables"
+1256,FDL56,"Low Fat","Fruits and Vegetables"
+1257,NCC55,"Low Fat",Household
+1258,FDB22,"Low Fat","Snack Foods"
+1259,DRG25,"Low Fat","Soft Drinks"
+1260,FDT14,Regular,Dairy
+1261,FDF44,Regular,"Fruits and Vegetables"
+1262,FDI08,Regular,"Fruits and Vegetables"
+1263,FDL21,Regular,"Snack Foods"
+1264,FDT13,"Low Fat",Canned
+1265,FDR26,"Low Fat",Dairy
+1266,FDF52,"Low Fat","Frozen Foods"
+1267,FDM32,"Low Fat","Fruits and Vegetables"
+1268,NCV29,"Low Fat","Health and Hygiene"
+1269,NCG18,"Low Fat",Household
+1270,NCO55,"Low Fat",Others
+1271,FDC47,"Low Fat","Snack Foods"
+1272,FDI60,Regular,"Baking Goods"
+1273,FDG10,Regular,"Snack Foods"
+1274,FDX50,"Low Fat",Dairy
+1275,FDZ52,"Low Fat","Frozen Foods"
+1276,FDA20,"Low Fat","Fruits and Vegetables"
+1277,FDV08,"Low Fat","Fruits and Vegetables"
+1278,DRJ11,"Low Fat","Hard Drinks"
+1279,NCM54,"Low Fat",Household
+1280,FDI33,"Low Fat","Snack Foods"
+1281,DRB01,"Low Fat","Soft Drinks"
+1282,DRH49,"Low Fat","Soft Drinks"
+1283,FDR12,Regular,"Baking Goods"
+1284,FDS24,Regular,"Baking Goods"
+1285,FDA52,Regular,"Frozen Foods"
+1286,FDS56,Regular,"Fruits and Vegetables"
+1287,FDT51,Regular,Meat
+1288,FDG33,Regular,Seafood
+1289,FDC22,Regular,"Snack Foods"
+1290,FDX33,Regular,"Snack Foods"
+1291,FDU10,Regular,"Snack Foods"
+1292,FDN10,"Low Fat","Snack Foods"
+1293,FDO33,"Low Fat","Snack Foods"
+1294,DRF60,"Low Fat","Soft Drinks"
+1295,FDO48,Regular,"Baking Goods"
+1296,FDM25,Regular,Breakfast
+1297,FDJ38,Regular,Canned
+1298,FDJ26,Regular,Canned
+1299,FDB40,Regular,Dairy
+1300,FDY44,Regular,"Fruits and Vegetables"
+1301,FDT23,reg,Breads
+1302,NCW29,"Low Fat","Health and Hygiene"
+1303,FDK27,"Low Fat",Meat
+1304,FDB59,"Low Fat","Snack Foods"
+1305,FDE58,"Low Fat","Snack Foods"
+1306,FDN57,"Low Fat","Snack Foods"
+1307,FDT46,"Low Fat","Snack Foods"
+1308,DRJ37,"Low Fat","Soft Drinks"
+1309,FDC35,"Low Fat","Starchy Foods"
+1310,FDE50,Regular,Canned
+1311,FDI27,Regular,Dairy
+1312,FDL39,Regular,Dairy
+1313,FDW04,Regular,"Frozen Foods"
+1314,NCL17,"Low Fat","Health and Hygiene"
+1315,FDA44,"Low Fat","Fruits and Vegetables"
+1316,FDW11,"Low Fat",Breads
+1317,FDV25,"Low Fat",Canned
+1318,FDT25,"Low Fat",Canned
+1319,FDH40,Regular,"Frozen Foods"
+1320,FDM60,Regular,"Baking Goods"
+1321,FDV39,"Low Fat",Meat
+1322,FDB29,Regular,"Frozen Foods"
+1323,NCV05,"Low Fat","Health and Hygiene"
+1324,FDV02,"Low Fat",Dairy
+1325,FDW56,"Low Fat","Fruits and Vegetables"
+1326,FDW35,"Low Fat",Breads
+1327,FDV14,"Low Fat",Dairy
+1328,NCH18,"Low Fat",Household
+1329,NCW18,"Low Fat",Household
+1330,NCK07,"Low Fat",Others
+1331,FDT47,Regular,Breads
+1332,FDW27,Regular,Meat
+1333,FDW01,"Low Fat",Canned
+1334,NCZ05,"Low Fat","Health and Hygiene"
+1335,NCH07,"Low Fat",Household
+1336,NCQ42,"Low Fat",Household
+1337,NCW42,"Low Fat",Household
+1338,FDH34,"Low Fat","Snack Foods"
+1339,FDQ57,"Low Fat","Snack Foods"
+1340,FDO10,Regular,"Snack Foods"
+1341,FDY48,"Low Fat","Baking Goods"
+1342,FDX14,"Low Fat",Dairy
+1343,DRF15,"Low Fat",Dairy
+1344,NCF07,"Low Fat",Household
+1345,NCD07,"Low Fat",Household
+1346,NCF31,"Low Fat",Household
+1347,NCR18,"Low Fat",Household
+1348,NCA30,"Low Fat",Household
+1349,DRH36,"Low Fat","Soft Drinks"
+1350,FDQ48,Regular,"Baking Goods"
+1351,FDW14,Regular,Dairy
+1352,FDS02,Regular,Dairy
+1353,FDU57,reg,"Snack Foods"
+1354,FDA11,LF,"Baking Goods"
+1355,NCM18,LF,Household
+1356,FDD58,LF,"Snack Foods"
+1357,FDV24,"Low Fat","Baking Goods"
+1358,NCN29,"Low Fat","Health and Hygiene"
+1359,NCM31,"Low Fat",Others
+1360,DRC25,"Low Fat","Soft Drinks"
+1361,FDL26,"Low Fat",Canned
+1362,FDI56,"Low Fat","Fruits and Vegetables"
+1363,NCP54,"Low Fat",Household
+1364,NCD18,"Low Fat",Household
+1365,FDE47,"Low Fat","Starchy Foods"
+1366,FDC52,Regular,Dairy
+1367,FDG05,Regular,"Frozen Foods"
+1368,FDG17,Regular,"Frozen Foods"
+1369,FDR56,Regular,"Fruits and Vegetables"
+1370,DRD01,Regular,"Soft Drinks"
+1371,FDB39,LF,Dairy
+1372,FDA49,"Low Fat",Canned
+1373,NCR05,"Low Fat","Health and Hygiene"
+1374,FDZ23,Regular,"Baking Goods"
+1375,FDH57,"Low Fat","Fruits and Vegetables"
+1376,FDY60,Regular,"Baking Goods"
+1377,FDX12,Regular,"Baking Goods"
+1378,FDK08,Regular,"Fruits and Vegetables"
+1379,FDE59,"Low Fat","Starchy Foods"
+1380,FDZ55,"Low Fat","Fruits and Vegetables"
+1381,NCN17,"Low Fat","Health and Hygiene"
+1382,FDC23,"Low Fat","Starchy Foods"
+1383,FDD23,Regular,"Starchy Foods"
+1384,DRM35,"Low Fat","Hard Drinks"
+1385,FDH09,"Low Fat",Seafood
+1386,DRG48,"Low Fat","Soft Drinks"
+1387,FDD35,"Low Fat","Starchy Foods"
+1388,FDA28,Regular,"Frozen Foods"
+1389,FDE35,Regular,"Starchy Foods"
+1390,FDR13,Regular,Canned
+1391,FDV27,Regular,Meat
+1392,FDQ04,"Low Fat","Frozen Foods"
+1393,FDU08,"Low Fat","Fruits and Vegetables"
+1394,NCH30,"Low Fat",Household
+1395,FDR16,Regular,"Frozen Foods"
+1396,FDQ51,Regular,Meat
+1397,NCR29,"Low Fat","Health and Hygiene"
+1398,FDC37,"Low Fat","Baking Goods"
+1399,FDE21,"Low Fat","Fruits and Vegetables"
+1400,NCL06,"Low Fat",Household
+1401,NCL42,"Low Fat",Household
+1402,FDZ46,"Low Fat","Snack Foods"
+1403,FDB10,"Low Fat","Snack Foods"
+1404,FDN50,Regular,Canned
+1405,FDC05,Regular,"Frozen Foods"
+1406,FDI09,Regular,Seafood
+1407,FDO13,"Low Fat",Breakfast
+1408,FDA38,"Low Fat",Dairy
+1409,FDQ11,Regular,Breads
+1410,FDZ25,Regular,Canned
+1411,FDX22,Regular,"Snack Foods"
+1412,DRD49,LF,"Soft Drinks"
+1413,FDC48,"Low Fat","Baking Goods"
+1414,FDP32,"Low Fat","Fruits and Vegetables"
+1415,DRO35,"Low Fat","Hard Drinks"
+1416,NCX18,"Low Fat",Household
+1417,NCF54,"Low Fat",Household
+1418,DRC49,"Low Fat","Soft Drinks"
+1419,FDM38,Regular,Canned
+1420,FDR25,Regular,Canned
+1421,FDP08,Regular,"Fruits and Vegetables"
+1422,FDZ39,Regular,Meat
+1423,FDY36,"Low Fat","Baking Goods"
+1424,FDS14,"Low Fat",Dairy
+1425,FDA57,"Low Fat","Snack Foods"
+1426,DRJ24,"Low Fat","Soft Drinks"
+1427,DRN36,"Low Fat","Soft Drinks"
+1428,NCU30,"Low Fat",Household
+1429,NCQ18,"Low Fat",Household
+1430,DRJ49,"Low Fat","Soft Drinks"
+1431,FDW60,Regular,"Baking Goods"
+1432,FDR01,Regular,Canned
+1433,FDF39,Regular,Dairy
+1434,FDE40,Regular,Dairy
+1435,FDA27,Regular,Dairy
+1436,FDX07,Regular,"Fruits and Vegetables"
+1437,FDS09,Regular,"Snack Foods"
+1438,FDT52,Regular,"Frozen Foods"
+1439,FDS16,Regular,"Frozen Foods"
+1440,NCZ18,"low fat",Household
+1441,FDI04,reg,"Frozen Foods"
+1442,FDK56,"Low Fat","Fruits and Vegetables"
+1443,FDE44,"Low Fat","Fruits and Vegetables"
+1444,FDB12,Regular,"Baking Goods"
+1445,FDL28,Regular,"Frozen Foods"
+1446,FDP52,Regular,"Frozen Foods"
+1447,FDP22,Regular,"Snack Foods"
+1448,DRA24,Regular,"Soft Drinks"
+1449,FDH21,LF,Seafood
+1450,NCA18,"Low Fat",Household
+1451,NCD31,"Low Fat",Household
+1452,FDY02,Regular,Dairy
+1453,DRB48,Regular,"Soft Drinks"
+1454,FDT48,LF,"Baking Goods"
+1455,FDB60,"Low Fat","Baking Goods"
+1456,FDC39,"Low Fat",Dairy
+1457,FDV50,"Low Fat",Dairy
+1458,DRH11,"Low Fat","Hard Drinks"
+1459,NCV53,"Low Fat","Health and Hygiene"
+1460,NCK06,"Low Fat",Household
+1461,FDR09,"Low Fat","Snack Foods"
+1462,DRE13,"Low Fat","Soft Drinks"
+1463,FDX49,Regular,Canned
+1464,FDY43,"Low Fat","Fruits and Vegetables"
+1465,DRI13,"Low Fat","Soft Drinks"
+1466,FDQ55,Regular,"Fruits and Vegetables"
+1467,FDR14,"Low Fat",Dairy
+1468,NCT29,"Low Fat","Health and Hygiene"
+1469,FDM39,LF,Dairy
+1470,FDX44,"Low Fat","Fruits and Vegetables"
+1471,FDX57,Regular,"Snack Foods"
+1472,FDL32,Regular,"Fruits and Vegetables"
+1473,FDX39,Regular,Meat
+1474,NCC31,"Low Fat",Household
+1475,FDQ58,"Low Fat","Snack Foods"
+1476,FDA19,"Low Fat","Fruits and Vegetables"
+1477,NCC43,"Low Fat",Household
+1478,FDS51,"Low Fat",Meat
+1479,DRD27,"Low Fat",Dairy
+1480,NCM26,"Low Fat",Others
+1481,FDK46,"Low Fat","Snack Foods"
+1482,FDH12,"Low Fat","Baking Goods"
+1483,NCS42,"Low Fat",Household
+1484,FDF59,"Low Fat","Starchy Foods"
+1485,FDH28,Regular,"Frozen Foods"
+1486,FDB41,Regular,"Frozen Foods"
+1487,FDI35,"Low Fat","Starchy Foods"
+1488,FDN56,Regular,"Fruits and Vegetables"
+1489,DRE49,"Low Fat","Soft Drinks"
+1490,FDF12,"Low Fat","Baking Goods"
+1491,FDC11,"Low Fat","Starchy Foods"
+1492,FDF28,Regular,"Frozen Foods"
+1493,FDY21,LF,"Snack Foods"
+1494,FDE38,"Low Fat",Canned
+1495,FDM45,Regular,"Snack Foods"
+1496,FDH60,Regular,"Baking Goods"
+1497,FDI26,"Low Fat",Canned
+1498,FDR49,"Low Fat",Canned
+1499,NCJ17,"Low Fat","Health and Hygiene"
+1500,FDZ36,Regular,"Baking Goods"
+1501,FDK15,"Low Fat",Meat
+1502,DRA12,"Low Fat","Soft Drinks"
+1503,FDY59,"Low Fat","Baking Goods"
+1504,DRN59,"Low Fat","Hard Drinks"
+1505,FDI36,Regular,"Baking Goods"
+1506,FDN44,LF,"Fruits and Vegetables"
+1507,FDT35,Regular,Breads
+1508,FDG04,"Low Fat","Frozen Foods"
+1509,FDN49,Regular,Breakfast
+1510,FDJ40,Regular,"Frozen Foods"
+1511,FDT15,Regular,Meat
+1512,FDT38,"Low Fat",Dairy
+1513,FDF58,"Low Fat","Snack Foods"
+1514,FDK57,"Low Fat","Snack Foods"
+1515,FDD59,Regular,"Starchy Foods"
+1516,FDC15,LF,Dairy
+1517,FDW22,Regular,"Snack Foods"
+1518,FDX45,"Low Fat","Snack Foods"
+1519,FDV52,Regular,"Frozen Foods"
+1520,FDF02,"Low Fat",Canned
+1521,NCW30,"Low Fat",Household
+1522,FDP36,Regular,"Baking Goods"
+1523,FDS08,"Low Fat","Fruits and Vegetables"
+1524,FDT33,Regular,"Snack Foods"
+1525,FDG58,Regular,"Snack Foods"
+1526,FDZ34,"Low Fat","Starchy Foods"
+1527,FDF41,"Low Fat","Frozen Foods"
+1528,FDG44,"Low Fat","Fruits and Vegetables"
+1529,FDZ50,Regular,Dairy
+1530,DRL59,"Low Fat","Hard Drinks"
+1531,FDV55,"Low Fat","Fruits and Vegetables"
+1532,DRB24,"Low Fat","Soft Drinks"
+1533,FDC26,"Low Fat",Canned
+1534,FDA14,"Low Fat",Dairy
+1535,NCP53,"Low Fat","Health and Hygiene"
+1536,FDJ16,"Low Fat","Frozen Foods"
+1537,FDY10,"Low Fat","Snack Foods"
+1538,FDA51,Regular,Dairy
+1539,FDA26,Regular,Dairy
+1540,NCC06,"Low Fat",Household
+1541,FDB47,"Low Fat","Snack Foods"
+1542,FDF47,"Low Fat","Starchy Foods"
+1543,FDV12,Regular,"Baking Goods"
+1544,DRC24,"Low Fat","Soft Drinks"
+1545,FDU56,"Low Fat","Fruits and Vegetables"
+1546,FDV58,"Low Fat","Snack Foods"
+1547,DRG39,"Low Fat",Dairy
+1548,FDE39,"Low Fat",Dairy
+1549,FDY14,LF,Dairy
+1550,DRO59,"Low Fat","Hard Drinks"
+1551,NCW05,"Low Fat","Health and Hygiene"
+1552,NCI55,"Low Fat",Household
+1553,FDQ33,"Low Fat","Snack Foods"
+1554,FDB46,Regular,"Snack Foods"
+1555,FDQ60,Regular,"Baking Goods"
+1556,FDF38,Regular,Canned
+1557,FDU60,Regular,"Baking Goods"
+1558,NCX53,LF,"Health and Hygiene"
+1559,FDE52,Regular,Dairy
