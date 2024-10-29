@@ -18,6 +18,13 @@ CREATE TABLE IF NOT EXISTS grocery_sales (
     `Rating` INT
 );
 
+
+-- Loading data using INFILE method
+-- Enable local_infile if necessary
+-- SHOW VARIABLES LIKE "local_infile";
+-- SET GLOBAL local_infile = 1;
+
+
 -- Load data into grocery_sales table (ensure local_infile is enabled)
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/BlinkIT_Grocery_Data.csv'
 INTO TABLE grocery_sales
