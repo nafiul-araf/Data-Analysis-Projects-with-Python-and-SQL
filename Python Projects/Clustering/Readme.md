@@ -186,6 +186,4 @@ sns.heatmap(confusion_matrix(test_y, test_predictions), annot=True)
 
 ### Conclusion:
 The project demonstrates a robust framework for customer segmentation and prediction. The combined use of clustering and classification models provides actionable insights for businesses to optimize their customer engagement strategies. This methodology can be extended to other industries or datasets for similar use cases.
-
-Let me know if you'd like to explore a specific aspect or need additional details!
 ---
