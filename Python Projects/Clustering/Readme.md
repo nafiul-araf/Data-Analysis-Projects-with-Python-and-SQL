@@ -184,7 +184,6 @@ sns.heatmap(confusion_matrix(test_y, test_predictions), annot=True)
 ```
 - **Purpose**: Predicts test data, computes a confusion matrix, and visualizes the performance.
 
-### **Conclusion**:
+### **Conclusion**
+The project successfully demonstrates a comprehensive approach to customer segmentation using clustering and classification techniques. By identifying distinct customer groups, the analysis provides actionable insights to improve customer targeting, retention, and resource allocation strategies. Furthermore, the classification model enables accurate prediction of customer group membership, making this framework scalable for real-world applications in banking and beyond. The methodology is robust, adaptable, and provides a foundation for data-driven decision-making in customer management.
 
-The project demonstrates a robust framework for customer segmentation and prediction. The combined use of clustering and classification models provides actionable insights for businesses to optimize their customer engagement strategies. This methodology can be extended to other industries or datasets for similar use cases.
----
