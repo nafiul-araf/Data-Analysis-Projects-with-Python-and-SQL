@@ -1,7 +1,7 @@
 
 # Product Analytics Dashboard
 
-Web Link :-> https://app.powerbi.com/view?r=eyJrIjoiNGYxMTMyY2MtZjZhNy00YWM2LWFlYjItNDFlZTUwNzNjYjRjIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D
+Web Link :-> [Here](https://app.powerbi.com/view?r=eyJrIjoiNGYxMTMyY2MtZjZhNy00YWM2LWFlYjItNDFlZTUwNzNjYjRjIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
 
 ![image](https://github.com/user-attachments/assets/010c8b87-5716-46ee-9fd3-d1fa8753c214)
 
