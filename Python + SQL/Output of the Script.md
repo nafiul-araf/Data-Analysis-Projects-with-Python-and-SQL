@@ -6,7 +6,9 @@ Order Id  Order Date       Ship Mode    Segment        Country             City 
 4         5  2022-07-13  Standard Class   Consumer  United States  Fort Lauderdale     Florida  ...  Office Supplies      Storage  OFF-ST-10000760         20         20         2                 5
 
 [5 rows x 16 columns]
+
 Data Shape:
+
 (9994, 16)
 
 Data Types:
@@ -99,51 +101,73 @@ Data Shape after Cleaning:
 4         5 2022-07-13  Standard Class   Consumer  United States  Fort Lauderdale     Florida  ...  Office Supplies      Storage  OFF-ST-10000760         20         20         2                 5
 
 [5 rows x 16 columns]
+
 Unique Values of 'Ship Mode' column are:
-['Second Class' 'Standard Class' 'Not Available' 'unknown' 'First Class'
- 'Same Day']
+
+['Second Class' 'Standard Class' 'Not Available' 'unknown' 'First Class' 'Same Day']
 
 Unique Values of 'Segment' column are:
+
 ['Consumer' 'Corporate' 'Home Office']
 
 Unique Values of 'Country' column are:
+
 ['United States']
 
 Unique Values of 'Region' column are:
+
 ['South' 'West' 'Central' 'East']
 
 Unique Values of 'Category' column are:
+
 ['Furniture' 'Office Supplies' 'Technology']
 
 Unique Values of 'Sub Category' column are:
+
 ['Bookcases' 'Chairs' 'Labels' 'Tables' 'Storage' 'Furnishings' 'Art'
+
  'Phones' 'Binders' 'Appliances' 'Paper' 'Accessories' 'Envelopes'
+ 
  'Fasteners' 'Supplies' 'Machines' 'Copiers']
 
 After Convertion
+
 Unique Values of 'Ship Mode' column are:
+
 ['Second Class' 'Standard Class' 'Not Available' 'Unknown' 'First Class']
 
 After Convertion
+
 Unique Values of 'Segment' column are:
+
 ['Consumer' 'Corporate' 'Home Office']
 
 After Convertion
+
 Unique Values of 'Country' column are:
+
 ['United States']
 
 After Convertion
+
 Unique Values of 'Region' column are:
+
 ['South' 'West' 'Central' 'East']
 
 After Convertion
+
 Unique Values of 'Category' column are:
+
 ['Furniture' 'Office Supplies' 'Technology']
 
 After Convertion
+
 Unique Values of 'Sub Category' column are:
+
 ['Bookcases' 'Chairs' 'Labels' 'Tables' 'Storage' 'Furnishings' 'Art'
+
  'Phones' 'Binders' 'Appliances' 'Paper' 'Accessories' 'Envelopes'
+ 
  'Fasteners' 'Supplies' 'Machines' 'Copiers']
 
 Summary Statistics: 
@@ -176,5 +200,7 @@ Data after deriving discount, sales_price & profit, and dropping 'list_price','c
 4         5 2022-07-13  Standard Class   Consumer  United States  Fort Lauderdale     Florida        33311  South  Office Supplies      Storage  OFF-ST-10000760         2       1.0     19.0    -1.0
 
 Data Loading to the Database Starting..........
+
 Data successfully loaded into the 'orders_data' table.
+
 Database connection closed.
