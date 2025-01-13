@@ -3,9 +3,12 @@
 ```bash
 pip install -r requirements.txt
 ```
-2. Need to create a database in MySQL workbench
-
-3. Run the following command on the terminal:
+2. Need to create a database in MySQL Workbench
+3. Replace the password of the MySQL Wrokbence and the database name in the following code of the script
+```python
+db_url = "mysql+pymysql://root:password@localhost:3306/db_name"
+```
+4. Run the following command on the terminal:
 ```bash
 python etl.py
 ```
@@ -209,7 +212,7 @@ def load_data_to_database(df, table_name, db_url):
 
 #### Example Usage:
 ```python
-db_url = "mysql+pymysql://root:password@localhost:3306/sales_analysis"  # have to give the password
+db_url = "mysql+pymysql://root:password@localhost:3306/db_name"  # have to give the password and db_name (database name)
 load_data_to_database(df, "orders_data", db_url)
 ```
 
