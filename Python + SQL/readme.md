@@ -4,7 +4,8 @@
 pip install -r requirements.txt
 ```
 2. Need to create a database in MySQL workbench
-3. 2. Run the following command on the terminal:
+
+3. Run the following command on the terminal:
 ```bash
 python etl.py
 ```
