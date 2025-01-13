@@ -1,4 +1,4 @@
-##### **Run the Script**
+### **Run the Script**
 1. Use the following command to install all dependencies:
 ```bash
 pip install -r requirements.txt
