@@ -110,5 +110,5 @@ def load_data_to_database(df, table_name, db_url):
     except NameError:
       print("Connection not established, nothing to close.")
 
-db_url = "mysql+pymysql://root:4432016a@localhost:3306/sales_analysis"
+db_url = "mysql+pymysql://root:password@localhost:3306/db_name"
 load_data_to_database(df, "orders_data", db_url)
