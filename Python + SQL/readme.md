@@ -1,3 +1,14 @@
+##### **Run the Script**
+1. Use the following command to install all dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the following command on the terminal:
+```bash
+python etl.py
+```
+
 # **Retail Orders Data Analysis**
 The **Retail Orders Data Analysis** project focuses on building an efficient ETL pipeline to process, analyze, and store retail transaction data. This pipeline extracts raw data, cleans and transforms it to ensure consistency, and calculates essential business metrics like revenue, profit, and discounts. The processed data is loaded into a MySQL database, enabling scalable storage and easy access for advanced analysis. By leveraging Python and key libraries like `pandas` and `sqlalchemy`, this project provides a streamlined solution for understanding retail performance across categories, regions, and customer segments.
 
