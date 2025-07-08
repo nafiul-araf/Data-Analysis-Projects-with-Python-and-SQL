@@ -1,39 +1,52 @@
-# Maven_Spotify_Streaming_History
+## Title: Spotify Streaming History Analysis and Listener Profile Insights
 
-This repository contains a Jupyter Notebook (`Maven_Spotify_Streaming_History.ipynb`) that analyzes personal Spotify streaming history using Python. The notebook leverages data science techniques to uncover insights into listening habits, focusing on artist preferences, song engagement, daily listening patterns, and the balance between exploring new music versus replaying favorites. The analysis is conducted with a filter of `ms_played > 30,000 ms` to ensure meaningful listening data is considered, and visualizations are created using libraries like Matplotlib and Seaborn.
+### Objective:
+The objective of this analysis is to explore a user's Spotify streaming history to uncover listening patterns, preferences, and trends. By leveraging data cleaning, clustering, and predictive analytics, the goal is to provide actionable insights into the user's music consumption habits, including top artists, listening volume, and recommendations for new artists to explore, while forecasting future listening trends.
 
-## Overview
+### Analysis:
+The analysis is based on a Spotify streaming history dataset (`spotify_history.csv`) containing 149,860 entries, filtered to 94,194 significant plays (tracks played for over 30 seconds). The dataset includes fields such as track name, artist name, album, timestamp, platform, play duration (`ms_played`), and playback context (e.g., shuffle, skipped). The analysis process is structured as follows:
 
-The notebook imports Spotify streaming data and metadata, processes it to answer key questions, and generates visualizations to support the findings. It is designed for data enthusiasts or anyone interested in exploring their own streaming habits with a structured, reproducible approach.
+1. **Data Cleaning and Transformation**:
+   - **Filtering**: Removed tracks with less than 30 seconds of playtime to focus on meaningful listens, reducing the dataset to 94,194 entries. This step eliminated previews or accidental plays (e.g., "Half Mast" with 0 ms).
+   - **Handling Nulls**: Identified 107 nulls in `reason_start` and 73 in `reason_end`, indicating minor gaps in playback context data, which were likely addressed in subsequent steps (e.g., imputation or exclusion).
+   - **Feature Engineering**: Likely involved creating derived features (e.g., playtime in minutes, temporal features like hour or month) for clustering and trend analysis, though specific code is truncated.
 
-## Features
+2. **Clustering with Gaussian Mixture Model (GMM)**:
+   - Applied GMM to group listening data into 27 clusters based on features like playtime, artist, or temporal patterns.
+   - Used Principal Component Analysis (PCA) with 19 components, capturing 80.14% of variance, to reduce dimensionality and focus on key listening patterns.
+   - Achieved a high reliability score (silhouette score of 0.9359), indicating well-separated clusters.
 
-- **Data Import and Cleaning**: Loads Spotify streaming history and metadata from CSV files, setting up a clean DataFrame for analysis.
-- **Dependency Setup**: Utilizes Python libraries including `pandas`, `numpy`, `matplotlib`, and `seaborn` for data manipulation and visualization.
-- **Key Analyses**:
-  - Identifies the top artists for 2023 and 2024, revealing shifts in preferences.
-  - Analyzes the most-played songs and their skip rates to gauge engagement.
-  - Examines daily listening patterns across morning, afternoon, evening, and night shifts.
-  - Compares the proportion of time spent on new artists versus favorite artists, highlighting exploration versus loyalty.
-- **Visualization**: Includes charts (e.g., bar plots, pie charts) to visually represent the data insights.
-- **Documentation**: Provides inline comments and a summary of findings within the notebook.
+3. **Trend Analysis**:
+   - Analyzed monthly playtime trends for the top GMM cluster (Cluster 25) using a line plot, saved as `monthly_trend_top_cluster.png`.
+   - Predicted future playtime for Cluster 25 by averaging the last three months' playtime (584.8 minutes).
 
-## Usage
+4. **Recommendation System**:
+   - Excluded noise (low-probability GMM assignments) and the largest cluster (Cluster 25) to identify niche artists for recommendations.
+   - Recommended artists based on less dominant clusters: Calvin Harris, James Arthur, Emeli Sandé, MGMT, and Passion Pit.
+   - Calculated engagement metrics for recommended artists (e.g., MGMT: 295.4 minutes, Passion Pit: 245.9 minutes).
 
-- The notebook is structured with Markdown cells for explanations and code cells for execution.
-- Modify the file paths or data filters (e.g., `ms_played > 30,000 ms`) to suit your dataset.
-- Run all cells sequentially to replicate the analysis or explore individual sections based on interest.
+5. **Summary Generation**:
+   - Created a user-friendly summary for web display, saved as `summary.txt`, detailing listening time, top artists, clustering insights, and actionable recommendations.
 
-## Findings Summary
+### Findings:
+1. **Listening Volume**:
+   - Total listening time in 2024 was 28,790.6 minutes (~480 hours).
+   - Top artists were John Mayer (1,514.58 minutes) and The Killers (1,351.28 minutes), indicating strong preferences for specific artists, possibly driven by nostalgia or frequent playlist revisits.
 
-- **Artist Preference Shift**: The top artist changed from The Killers in 2023 to John Mayer in 2024, with John Mayer leading with ~14,000 minutes in 2024.
-- **Song Engagement**: "Ode to The Mets" by The Strokes is the most-played song (~175 plays, ~10,000 minutes) with a low 0.5% skip rate, while "Concerning Hobbits" shows a higher 3.5% skip rate.
-- **Listening Patterns**: Peak listening occurs at night (00:00, ~6,000 plays) and evening (17:00–20:00, ~6,000 plays each), with morning being the least active (~500–2,000 plays).
-- **Exploration vs. Loyalty**: New artists account for only 4.26% of plays and 3.99% of listening time, while favorite artists dominate with 95.74% of plays and 96.01% of time, indicating a strong replay tendency.
+2. **Cluster Insights**:
+   - Cluster 25 was the most dominant, with 95,150 minutes and 1,739 unique tracks, averaging 827.4 minutes monthly. This suggests a broad, frequently played playlist.
+   - Smaller clusters (e.g., 302.77 minutes) reflect niche or one-off listening interests.
+   - GMM clustering with a silhouette score of 0.9359 indicates robust grouping of listening patterns.
 
-## Acknowledgments
+3. **Preference Shifts**:
+   - Significant increases in listening time for ABBA (59.45 to 964.76 minutes) and Howard Shore (702.76 to 859.23 minutes) in 2024 suggest evolving tastes, possibly influenced by media trends (e.g., movie soundtracks) or seasonal listening.
 
-- Thanks to Maven Analytics for inspiring the data analysis journey.
-- Spotify for providing the streaming history data export feature.
+4. **Trend Prediction**:
+   - Predicted playtime for Cluster 25 is 584.8 minutes for the next month, a decrease from 790.1 minutes, suggesting potential fatigue or a shift toward other music preferences.
 
-For any questions or feedback, please open an issue or contact the repository owner. Happy analyzing!
+5. **Recommendations**:
+   - Recommended artists (Calvin Harris, James Arthur, Emeli Sandé, MGMT, Passion Pit) align with emerging or less dominant listening patterns, offering diversity.
+   - Engagement with recommended artists totals 637.0 minutes, with MGMT and Passion Pit showing significant playtime, indicating potential interest in similar genres.
+
+### Conclusions:
+The analysis reveals a detailed picture of the user's music listening habits, characterized by a strong preference for artists like John Mayer and The Killers, alongside evolving interests in artists like ABBA and Howard Shore. The use of GMM clustering and PCA effectively identified distinct listening patterns, with Cluster 25 representing a core playlist and smaller clusters highlighting niche interests. The predicted decline in Cluster 25 engagement suggests a potential shift in preferences, which could be addressed by exploring recommended artists like MGMT and Passion Pit. These recommendations, grounded in less dominant clusters, offer a tailored way to diversify the user's music experience. To further enhance engagement, the user could balance listening times across different parts of the day (e.g., morning sessions) and monitor enjoyment of new artists. The robust methodology (high silhouette score, PCA variance coverage) ensures reliable insights, making this analysis a valuable tool for personalized music discovery and planning future listening habits.
