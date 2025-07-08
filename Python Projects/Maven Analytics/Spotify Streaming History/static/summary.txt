@@ -1,0 +1,27 @@
+
+    ### Your Spotify Listening Highlights (Updated: 03:15 PM +06, July 08, 2025)
+
+    **Your Listening Time in 2024**
+    - You enjoyed 28790.6 minutes of music in 2024!
+    - Your top artist was John Mayer with 1,514.58 minutes, followed by The Killers at 1,351.28 minutes.
+
+    **How We Analyzed Your Music**
+    - We grouped your listening into 27 clusters using a method called GMM, with a reliability score of 0.9359.
+    - A technique called PCA helped us focus on the most important patterns using 19 components, covering 80.14% of your listening variety.
+    - The biggest cluster (Cluster cluster_25) averages 827.4 minutes per month.
+
+    **What We Learned About Your Tastes**
+    
+- **Listening Volume**: You listened to 28790.6 minutes in 2024, with John Mayer (1,514.58 minutes) and The Killers (1,351.28 minutes) leading, suggesting strong preferences. This could reflect nostalgia or frequent revisits.
+- **Cluster Distribution**: Cluster 25 dominates with 95150.0 minutes and 1,739 unique tracks (790.1 minutes monthly), indicating a broad playlist, while smaller clusters (e.g., 302.77 minutes) show niche interests, possibly from one-off listens.
+- **Preference Shifts**: ABBA’s rise (from 59.45 to 964.76 minutes) and Howard Shore’s growth (from 702.76 to 859.23 minutes) in 2024 suggest evolving tastes, potentially due to media trends or seasonal influences.
+- **Cluster Trends**: The top cluster’s predicted 548.4 minutes (down from 790.1) hints at declining engagement, possibly from fatigue or shifting focus to other clusters.
+- **Recommendations**: Artists like Calvin Harris (77.2 minutes) and MGMT (295.4 minutes) offer diversity, likely aligning with emerging interests or complementing your top artists’ styles.
+
+
+    **Your Next Steps**
+    - **Explore New Music**: Try listening to ['Calvin Harris', 'James Arthur', 'Emeli Sandé', 'MGMT', 'Passion Pit'].
+    - **Mix Up Your Day**: Balance your night listening with some morning sessions based on when you usually play music.
+    - **Track New Artists**: Keep an eye on how much you enjoy the new suggestions (about 637.0 minutes worth).
+    - **Plan Ahead**: Aim for around 584.8 minutes of Cluster cluster_25 music in the coming months.
+    
